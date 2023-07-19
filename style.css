@@ -1,0 +1,73 @@
+a:hover {
+color: rgb(193, 68, 18);
+animation-delay: 0.5s;
+}
+
+.link-style {
+  color: rgb(114, 28, 212);
+  text-decoration: none;
+}
+
+.my-profile-image {
+  border-radius: 50%;
+}
+
+h1, h2{
+  color:#001C30;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 25px;
+  line-height: 3.0em;
+  font-weight: bold;
+
+}
+p {
+  color: #ffffff;
+  display: inline-block;
+}
+
+#skills{
+  color: #001C30;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+body{
+  margin: 0 auto;
+  text-align: center;
+  background-color:#F6F6F6;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+  line-height: 1.7em;
+  background-image: url("https://as2.ftcdn.net/v2/jpg/01/71/83/15/1000_F_171831524_gFwIw8kj9F3cMeo14ZNxGwVm9hciU0K0.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-weight: 300;
+}
+
+.center-picture{
+  margin: 0 auto;
+}
+
+.put-things-together{
+  display: inline-block;
+}
+
+.div-padding-20px{
+  padding: 20px;
+  margin: 0 auto;
+}
+.border-blocks{
+  /* border: 1px solid #001C30; */
+  margin: 0 auto;
+  width: 500px;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.fix-text-to-boxes{
+  text-align: justify;
+}
